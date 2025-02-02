@@ -1,0 +1,12 @@
+node_modules/
+dist/
+coverage/
+.env
+.DS_Store
+*.log
+.nyc_output/
+jest-cache/
+jest-test-results.json
+.idea/
+.vscode/
+*.tsbuildinfo
