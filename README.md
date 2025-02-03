@@ -63,6 +63,6 @@ This will run all Jest test cases and display the results in the terminal.
 ## Additional Notes
 
 - The project follows **Test-Driven Development (TDD)**, so the tests are written before implementing the logic.
-- Some edge cases such as all spares, all strikes, and mixed rolls are included in test cases, but beware there could be more cases to ensure your implementation is as robust as possible
+- Some edge cases such as all spares, all strikes, and mixed rolls are included in test cases, but beware there could be more cases, so add further test cases to ensure your implementation is as robust as possible
 
 Happy coding! 🎳
