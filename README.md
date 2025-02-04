@@ -32,6 +32,7 @@ A game of bowling consists of 10 frames. Each frame allows a player to roll up t
 |-- tsconfig.json     # TypeScript configuration
 |-- package.json      # Project dependencies and scripts
 ```
+For the implementation details, read [IMPLEMENTATION.md](IMPLEMENTATION.md)
 
 ## How to Run the Project
 
